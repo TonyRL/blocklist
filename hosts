@@ -291,6 +291,9 @@
 0.0.0.0	saxn.sina.com.cn
 0.0.0.0	sbeacon.sina.com.cn
 
+# Sing Tao
+0.0.0.0	singtaolimited.sc.omtrdc.net
+
 # Snap
 0.0.0.0	ase.adserver.snapads.com
 0.0.0.0	gcs.sc-cdn.net
