@@ -332,8 +332,12 @@
 0.0.0.0	dlied1.qq.com
 0.0.0.0	dlied1.tcdn.qq.com
 0.0.0.0	dnet.mb.qq.com
+0.0.0.0	dns.weixin.qq.com
 0.0.0.0	dp3.qq.com
 0.0.0.0	game.str.mdt.qq.com
+0.0.0.0	hkextshort.weixin.qq.com
+0.0.0.0	hkminorshort.weixin.qq.com
+0.0.0.0	hkshort.weixin.qq.com
 0.0.0.0	ii.gdt.qq.com
 0.0.0.0	ios.bugly.qq.com
 0.0.0.0	ios.rqd.qq.com
@@ -354,6 +358,7 @@
 0.0.0.0	pingtas.qq.com
 0.0.0.0	report.huatuo.qq.com
 0.0.0.0	security.sparta.mig.tencent-cloud.net
+0.0.0.0	ssd.tcdn.qq.com
 0.0.0.0	stat.fyeds4.com
 0.0.0.0	tpns.qq.com
 0.0.0.0	tracker-01.qvb.qcloud.com
