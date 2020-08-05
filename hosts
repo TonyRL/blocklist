@@ -1,4 +1,4 @@
-# Last updated : 2020-07-16
+# Last updated : 2020-08-06
 
 # AdColony
 0.0.0.0	ads30.adcolony.com
@@ -94,6 +94,8 @@
 0.0.0.0	cm.bilibili.com
 0.0.0.0	data.bilibili.com
 0.0.0.0	dataflow.biliapi.com
+0.0.0.0	game.bilibili.com
+0.0.0.0	game.bilibili.com.w.cdngslb.com
 0.0.0.0	grpc.biliapi.net
 0.0.0.0	member.bilibili.com
 0.0.0.0	message.bilibili.com
@@ -101,6 +103,8 @@
 0.0.0.0	passport.bigfunapp.cn
 0.0.0.0	passport.biligame.com
 0.0.0.0	pay.bilibili.com
+0.0.0.0	static.biligame.com
+0.0.0.0	static.biligame.net
 
 # Branch
 0.0.0.0	cdn.branch.io
