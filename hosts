@@ -1,4 +1,4 @@
-# Last updated : 2020-08-06
+# Last updated : 2020-08-10
 
 # AdColony
 0.0.0.0	ads30.adcolony.com
@@ -430,6 +430,8 @@
 0.0.0.0	api.chat.xiaomi.net
 0.0.0.0	api.xmpush.xiaomi.com
 0.0.0.0	app.chat.xiaomi.net
+0.0.0.0	duokan.thisdomainnotexist1234567890.com
+0.0.0.0	log.duokanbox.com
 0.0.0.0	lxcdn.app.chat.xiaomi.net
 0.0.0.0	resolver.msg.xiaomi.net
 
@@ -531,7 +533,6 @@
 0.0.0.0	dmp.eland-tech.com
 
 0.0.0.0	dqj77.bkyhq.cn
-0.0.0.0	duokan.thisdomainnotexist1234567890.com
 
 0.0.0.0	e.serverbid.com
 
