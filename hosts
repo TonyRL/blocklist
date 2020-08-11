@@ -429,6 +429,7 @@
 0.0.0.0	api.chat.xiaomi.net
 0.0.0.0	api.xmpush.xiaomi.com
 0.0.0.0	app.chat.xiaomi.net
+0.0.0.0	broker.mqtt.duokanbox.com
 0.0.0.0	duokan.thisdomainnotexist1234567890.com
 0.0.0.0	log.duokanbox.com
 0.0.0.0	lxcdn.api.chat.xiaomi.net
