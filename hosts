@@ -1,4 +1,4 @@
-# Last updated : 2020-08-10
+# Last updated : 2020-08-26
 
 # AdColony
 0.0.0.0	ads30.adcolony.com
@@ -52,6 +52,7 @@
 0.0.0.0	api-click-261505854.us-west-2.elb.amazonaws.com
 0.0.0.0	cdn-a.amazon-adsystem.com
 0.0.0.0	cell3p001.ap-southeast-1.prod.3p.entry.video-ads.a2z.com
+0.0.0.0	logger-elb-1306394067.us-east-2.elb.amazonaws.com
 0.0.0.0	vaes.amazon-adsystem.com
 0.0.0.0	vq-fe-us-west-2.amazon-adsystem.com
 
