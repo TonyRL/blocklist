@@ -93,6 +93,8 @@
 0.0.0.0	big.bilibili.com
 0.0.0.0	broadcast.chat.biliapi.com
 0.0.0.0	cm.bilibili.com
+0.0.0.0	d1--p1--cn-gotcha04.bilivideo.com
+0.0.0.0	d1--p2--cn-gotcha04.bilivideo.com
 0.0.0.0	data.bilibili.com
 0.0.0.0	dataflow.biliapi.com
 0.0.0.0	game.bilibili.com
@@ -340,6 +342,7 @@
 0.0.0.0	astat.bugly.qq.com
 0.0.0.0	bugly.qq.com
 0.0.0.0	clientreport.gfm.qq.com
+0.0.0.0	conf.qvb.qcloud.com
 0.0.0.0	dlied1.qq.com
 0.0.0.0	dlied1.tcdn.qq.com
 0.0.0.0	dns.weixin.qq.com
