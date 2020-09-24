@@ -1,4 +1,4 @@
-# Last updated : 2020-09-18
+# Last updated : 2020-09-25
 
 # AdColony
 0.0.0.0	ads30.adcolony.com
@@ -65,6 +65,11 @@
 0.0.0.0	applovefrom.com
 0.0.0.0	www.applovefrom.com
 
+# AppLovin
+0.0.0.0	d.applvn.com
+0.0.0.0	ms.applovin.com
+0.0.0.0	rt.applvn.com
+
 # AppsFlyer
 0.0.0.0	api2.appsflyer.com
 
@@ -122,11 +127,27 @@
 # Bugsnag
 0.0.0.0	sessions.bugsnag.com
 
-# ByteDance
+# ByteDance/TouTiao
+0.0.0.0	bgp.ad-core-lb-lf.l.bytedns.net
+0.0.0.0	is.snssdk.com
+0.0.0.0	is.snssdk.com.w.alikunlun.com
+0.0.0.0	l2-toutiao-ml.gslb.ks-cdn1.com
+0.0.0.0	log-hl.snssdk.com
+0.0.0.0	mon.snssdk.com
+0.0.0.0	mon-hl.snssdk.com
+0.0.0.0	mon.toutiao.com
+0.0.0.0	pangolin.snssdk.com
+0.0.0.0	pangolin.snssdk.com.w.cdngslb.com
 0.0.0.0	sf1-ttcdn-tos.pstatp.com
 0.0.0.0	sf6-ttcdn-tos.pstatp.com
+0.0.0.0	smr.snssdk.com
+0.0.0.0	smr.snssdk.com.w.cdngslb.com
 0.0.0.0	v3-ad.ixigua.com
 0.0.0.0	v3-ad.ixigua.com.m.alikunlun.com
+0.0.0.0	www.pangolin-dsp-toutiao.com
+
+# CleverTap
+0.0.0.0	sg1.wzrkt.com
 
 # CNZZ
 0.0.0.0	s96.cnzz.com
@@ -290,6 +311,14 @@
 0.0.0.0	net.rayjump.com
 0.0.0.0	setting.rayjump.com
 
+# RUNative
+0.0.0.0	cdn.run-syndicate.com
+0.0.0.0	cdn.runative-syndicate.com
+0.0.0.0	pixel.run-syndicate.com
+0.0.0.0	pixel.runative-syndicate.com
+0.0.0.0	run-syndicate.com
+0.0.0.0	runative-syndicate.com
+
 # sdkclickurl
 0.0.0.0	c3.sdkclickurl.com
 0.0.0.0	ccloud.sdkclickurl.com
@@ -302,6 +331,9 @@
 0.0.0.0	log.sina.cn
 0.0.0.0	logger.sina.cn
 0.0.0.0	mixern.sina.cn
+0.0.0.0	ping4.sina.cn
+0.0.0.0	ping64.sina.cn
+0.0.0.0	ping46.sina.cn
 0.0.0.0	sax.sina.cn
 0.0.0.0	saxn.sina.com.cn
 0.0.0.0	sbeacon.sina.com.cn
@@ -393,19 +425,6 @@
 0.0.0.0	dd.toponad.com
 0.0.0.0	tt.toponad.com
 
-# TouTiao
-0.0.0.0	is.snssdk.com
-0.0.0.0	is.snssdk.com.w.alikunlun.com
-0.0.0.0	l2-toutiao-ml.gslb.ks-cdn1.com
-0.0.0.0	log-hl.snssdk.com
-0.0.0.0	mon.snssdk.com
-0.0.0.0	mon-hl.snssdk.com
-0.0.0.0	mon.toutiao.com
-0.0.0.0	pangolin.snssdk.com
-0.0.0.0	pangolin.snssdk.com.w.cdngslb.com
-0.0.0.0	smr.snssdk.com
-0.0.0.0	smr.snssdk.com.w.cdngslb.com
-
 # qchannel03
 0.0.0.0	bj.qchannel03.cn
 0.0.0.0	www.qchannel03.cn
@@ -484,15 +503,13 @@
 0.0.0.0	ai.adtarget.tech
 
 0.0.0.0	api.data1track.com
-
 0.0.0.0	api.instabug.com
-
 0.0.0.0	api.melodong.com
-
 0.0.0.0	api.sobot.com
 0.0.0.0	api.uparpu.com
 
 0.0.0.0	apiey.myhug.cn
+
 0.0.0.0	apiha.mobgi.com
 
 0.0.0.0	apn.c.appier.net
@@ -505,21 +522,20 @@
 
 0.0.0.0	c.libertex-secure.com
 0.0.0.0	c.snnd.co
-
 0.0.0.0	c.ftstats.com
 
 0.0.0.0	cdn.addlnk.com
-
 0.0.0.0	cdn.namel.net
-0.0.0.0	cdn.run-syndicate.com
-0.0.0.0	cdn.runative-syndicate.com
 0.0.0.0	cdn.wishpond.net
 0.0.0.0	cdn.xm01.yytejg.com
 
 0.0.0.0	chance.adsensor.org
 0.0.0.0	chance.chance-ad.com
+
 0.0.0.0	circultural.com
+
 0.0.0.0	click-inplayable-com-1437065351.ap-southeast-1.elb.amazonaws.com
+
 0.0.0.0	click.baburnadir.com
 0.0.0.0	click.inplayable.com
 0.0.0.0	click.tracksummer.com
@@ -527,17 +543,14 @@
 0.0.0.0	clk.affunion.net
 0.0.0.0	clk.flymobi.biz
 0.0.0.0	clk.hopemobi.net
-
 0.0.0.0	clk.occuad.com
 0.0.0.0	clk.snvads.com
-
 0.0.0.0	clk.trkmobi.net
 
 0.0.0.0	countly3.feelingtouch.com
 0.0.0.0	cpiclks.mobismarter.com
 
 0.0.0.0	cs.twcczhu.com
-0.0.0.0	d.applvn.com
 
 0.0.0.0	d30242117837523865011d01e0b5ccb5fdfff1a8.sdk.testflightapp.com
 0.0.0.0	d6.mobaders.com
@@ -569,33 +582,40 @@
 0.0.0.0	go2.onlymobs.com
 
 0.0.0.0	h5.wannaplay.cn
+
 0.0.0.0	hdb.maxli.cn
 0.0.0.0	hdb.maxli.cn.cname210.yjs-cdn.com
+
 0.0.0.0	i.hao61.net
 0.0.0.0	i.hao61.net.m.alikunlun.com
 0.0.0.0	i.hgysxz.cn
 0.0.0.0	i.tddmp.com
+
 0.0.0.0	iapclick.gowadogo.com
+
 0.0.0.0	id6.me
+
 0.0.0.0	ie8eamus.com
+
 0.0.0.0	ihowed.info
 
 0.0.0.0	instantresp.com
 
 0.0.0.0	isafe.pro
+
 0.0.0.0	jdd01.198game.net
+
 0.0.0.0	js.hsforms.net
 0.0.0.0	js.idgdmgroup.com.cn
-
 0.0.0.0	js.qyqc4s.com
 
 0.0.0.0	kswj.unionapps.info
 
 0.0.0.0	lnk0.com
+
 0.0.0.0	log.is.ysten.com
 
 0.0.0.0	logger.ftads.net
-
 0.0.0.0	logger.suibyuming.com
 
 0.0.0.0	logservice.vidonme.cn
@@ -603,13 +623,12 @@
 0.0.0.0	m4.pop.niux88.com
 
 0.0.0.0	mblapi.ssl2.duapps.com
+
 0.0.0.0	mct-weburiexposer.cloudapp.net
 
 0.0.0.0	media-bgp.hypers.com.cn
 
 0.0.0.0	milfs.b2o9.com
-
-0.0.0.0	ms.applovin.com
 
 0.0.0.0	mtj.bitanzi.cn
 
@@ -618,30 +637,31 @@
 0.0.0.0	nkmsite.com
 
 0.0.0.0	offer.careyads.com
+
 0.0.0.0	onead.onevision.com.tw
 
 0.0.0.0	openapi.haodai.com
+
 0.0.0.0	org.urlaw.cn
 
-0.0.0.0	pixel.run-syndicate.com
-0.0.0.0	pixel.runative-syndicate.com
 0.0.0.0	pmad-mbad.com
+
 0.0.0.0	ppcashpop.com
+
 0.0.0.0	predocontentdelivery.info
 
 0.0.0.0	pushgaga.com
 
 0.0.0.0	rec.scupio.com
+
 0.0.0.0	recsys.cntv.duokanbox.com
+
 0.0.0.0	redirect.appleads-trk.com
 0.0.0.0	redirect.lunarmobi.com
 
 0.0.0.0	rfrl.pw
 
-0.0.0.0	rt.applvn.com
 0.0.0.0	rts.ssl2.duapps.com
-0.0.0.0	run-syndicate.com
-0.0.0.0	runative-syndicate.com
 
 0.0.0.0	s1795.t.en25.com
 
@@ -649,24 +669,28 @@
 
 0.0.0.0	sensorsdata.bybieyang.com
 
-0.0.0.0	sg1.wzrkt.com
-
 0.0.0.0	ssl-cdn.adccdn.net.c.footprint.net
+
 0.0.0.0	ssp.tenmax.io
+
 0.0.0.0	sss.jdkic.com
 
 0.0.0.0	st.aitaojin.com
 
 0.0.0.0	sub.avgle.com
+
 0.0.0.0	supercharger.tools
 
 0.0.0.0	t-i.gridsumdissector.com
+
 0.0.0.0	t1.chinavivaki.com
+
 0.0.0.0	tag.musiciansaudience.com
 
 0.0.0.0	tg.youxitui123.com
 
 0.0.0.0	tk.uparpu.com
+
 0.0.0.0	tpl-065.aflemy.com
 
 0.0.0.0	track.adstack.co
@@ -680,16 +704,21 @@
 0.0.0.0	track.orangr.com
 0.0.0.0	track.sp.crdl.io
 0.0.0.0	track.zjup.cn
+
 0.0.0.0	tracking.ad-brix.com
 0.0.0.0	tracking.dynamicmobilecreative.com
 0.0.0.0	tracking.mediago.io
 0.0.0.0	tracking.mobjoker.com
 0.0.0.0	tracking.yohoads.com
+
 0.0.0.0	trd-trk.ad-brix.com
+
 0.0.0.0	trk.ophistorre.com
+
 0.0.0.0	tslomhfys.com
 
 0.0.0.0	tx-gz4-api-b1.mobgi.com
+
 0.0.0.0	u.yycz01.com
 
 0.0.0.0	unjmz.com
@@ -699,11 +728,11 @@
 0.0.0.0	www.lnkdata.com
 0.0.0.0	www.mobillium.mobi
 0.0.0.0	www.poweredbyliquidfire.mobi
-
 0.0.0.0	www.vungle.com
 0.0.0.0	www.wishpond.com
 
 0.0.0.0	xyads.fuse-cloud.com
+
 0.0.0.0	xyxcck-log-ad.raink.com.cn
 
 0.0.0.0	ymcdn.ymtrack6.co
