@@ -1,4 +1,4 @@
-# Last updated : 2020-09-25
+# Last updated : 2020-10-05
 
 # AdColony
 0.0.0.0	ads30.adcolony.com
@@ -273,6 +273,9 @@
 0.0.0.0	video6001-104-250-150-12.cdnmanhua.net
 0.0.0.0	videoapi.manhuaren.com
 0.0.0.0	videoapi.manhuaren.com.cdn.cloudflare.net
+
+# mihoyo
+0.0.0.0	log-upload-os.mihoyo.com
 
 # Mob
 0.0.0.0	api.exc.mob.com
