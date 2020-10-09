@@ -1,4 +1,4 @@
-# Last updated : 2020-10-05
+# Last updated : 2020-10-10
 
 # AdColony
 0.0.0.0	ads30.adcolony.com
@@ -89,8 +89,10 @@
 0.0.0.0	xyz-client.bannerspace.net.edgekey.net
 
 # Bilibili
+0.0.0.0	api.biligame.com
 0.0.0.0	api.live.bilibili.com
 0.0.0.0	api.vc.bilibili.com
+0.0.0.0	apigame.bilibili.com
 0.0.0.0	apm-misaka.biliapi.net
 0.0.0.0	apm-misaka-hk.biliapi.com
 0.0.0.0	app.bilibili.com
