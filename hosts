@@ -111,6 +111,7 @@
 0.0.0.0	grpc.biliapi.net
 0.0.0.0	k1-biligame.gslb.ks-cdn1.com
 0.0.0.0	k1-biligame.gslb.ksyuncdn.com
+0.0.0.0	ks-sh-tracker-02.biliapi.net
 0.0.0.0	live-trace.bilibili.com
 0.0.0.0	member.bilibili.com
 0.0.0.0	message.bilibili.com
