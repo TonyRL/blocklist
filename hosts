@@ -1,4 +1,4 @@
-# Last updated : 2021-03-1
+# Last updated : 2021-07-22
 
 # AdColony
 0.0.0.0	ads30.adcolony.com
@@ -119,6 +119,8 @@
 0.0.0.0	passport.bigfunapp.cn
 0.0.0.0	passport.biligame.com
 0.0.0.0	pay.bilibili.com
+0.0.0.0	skynet.bilivideo.com
+0.0.0.0	skynetiptv.com
 0.0.0.0	static.biligame.com
 0.0.0.0	static.biligame.net
 0.0.0.0	upos-sz-staticks3.bilivideo.com
@@ -133,6 +135,8 @@
 
 # ByteDance/TouTiao
 0.0.0.0	bgp.ad-core-lb-lf.l.bytedns.net
+0.0.0.0	dm-hl.toutiao.com
+0.0.0.0	dm-hl.toutiao.com.w.kunluncan.com
 0.0.0.0	is.snssdk.com
 0.0.0.0	is.snssdk.com.w.alikunlun.com
 0.0.0.0	l2-toutiao-ml.gslb.ks-cdn1.com
@@ -170,6 +174,11 @@
 0.0.0.0	me-push.gservice.emarsys.net
 0.0.0.0	push.eservice.emarsys.net
 
+# Evernote
+0.0.0.0	com.evernote.iphone.evernote
+0.0.0.0	com.evernote.iphone.evernoteci
+0.0.0.0	com.evernote.iphone.evernotepre
+
 # Fyber
 0.0.0.0	engine.fyber.com
 0.0.0.0	lbservices2.fyber.com
@@ -199,6 +208,8 @@
 # Google
 0.0.0.0	adservice.google.com.hk
 0.0.0.0	imasdk.googleapis.com
+0.0.0.0	maps.google.com.iq
+0.0.0.0	maps.google.co.ma
 
 # HeyZap
 0.0.0.0	med.heyzap.com
@@ -294,6 +305,10 @@
 # myspicylinks
 0.0.0.0	clk.myspicylinks.com
 0.0.0.0	w.myspicylinks.com
+
+# NetEase
+0.0.0.0	sigma-statistics-push.proxima.nie.easebar.com
+0.0.0.0	unisdk.update.easebar.com
 
 # Nvidia
 0.0.0.0	accounts.nvgs.nvidia.com
