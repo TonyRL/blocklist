@@ -1,4 +1,4 @@
-# Last updated : 2021-07-22
+# Last updated : 2021-08-21
 
 # AdColony
 0.0.0.0	ads30.adcolony.com
@@ -170,6 +170,9 @@
 
 # Emarsys
 0.0.0.0	app-lb2.gservice.emarsys.net
+0.0.0.0	mobile-events.eservice.emarsys.net
+0.0.0.0	mobile-sdk-config.gservice.emarsys.net
+0.0.0.0	me-client.eservice.emarsys.net
 0.0.0.0	me-push.gservice.emarsys.net
 0.0.0.0	push.eservice.emarsys.net
 
