@@ -229,6 +229,7 @@
 0.0.0.0	overseascollect.hoolai.com
 
 # Huawei
+0.0.0.0	logservice-dra.platform.hicloud.com
 0.0.0.0	metrics1.data.hicloud.com
 
 # HubSpot
