@@ -1,4 +1,4 @@
-# Last updated : 2021-11-05
+# Last updated : 2021-11-11
 
 # 95516
 0.0.0.0	ads.95516.com
@@ -302,6 +302,9 @@
 
 # mihoyo
 0.0.0.0	log-upload-os.mihoyo.com
+
+# Mintegral
+0.0.0.0	pok.mintegral.net
 
 # Mob
 0.0.0.0	api.exc.mob.com
