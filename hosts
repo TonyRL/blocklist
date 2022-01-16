@@ -1,4 +1,4 @@
-# Last updated : 2021-11-11
+# Last updated : 2022-01-16
 
 # 95516
 0.0.0.0	ads.95516.com
@@ -216,7 +216,24 @@
 0.0.0.0	adservice.google.com.hk
 0.0.0.0	imasdk.googleapis.com
 0.0.0.0	maps.google.com.iq
+0.0.0.0	maps.google.com.lb
+0.0.0.0	maps.google.com.ni
+0.0.0.0	maps.google.com.ua
 0.0.0.0	maps.google.co.ma
+0.0.0.0	maps.google.cg
+0.0.0.0	maps.google.gm
+0.0.0.0	maps.google.lu
+0.0.0.0	maps.google.tk
+0.0.0.0	www.google.com.bo
+0.0.0.0	www.google.com.do
+0.0.0.0	www.google.co.bw
+0.0.0.0	www.google.ba
+0.0.0.0	www.google.bs
+0.0.0.0	www.google.fm
+0.0.0.0	www.google.im
+0.0.0.0	www.google.lt
+0.0.0.0	www.google.ro
+0.0.0.0	www.google.rw
 
 # HeyZap
 0.0.0.0	med.heyzap.com
