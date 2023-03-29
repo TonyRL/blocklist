@@ -1,4 +1,4 @@
-# Last updated : 2023-03-21
+# Last updated : 2023-03-30
 
 # 95516
 0.0.0.0	ads.95516.com
@@ -250,7 +250,6 @@
 0.0.0.0	metrics1.data.hicloud.com
 
 # HubSpot
-0.0.0.0	cdn2.hubspot.net
 0.0.0.0	no-cache.hubspot.com
 
 # HugOffers
@@ -280,7 +279,6 @@
 0.0.0.0	intercom.help
 0.0.0.0	intercom.io
 0.0.0.0	nexus-websocket-a.intercom.io
-0.0.0.0	static.intercomassets.com
 
 # Kingsoft
 0.0.0.0	activity.iciba.com
