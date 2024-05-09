@@ -1,4 +1,4 @@
-# Last updated : 2023-06-11
+# Last updated : 2024-05-10
 
 # 95516
 0.0.0.0	ads.95516.com
@@ -244,6 +244,10 @@
 
 # Hoolai
 0.0.0.0	overseascollect.hoolai.com
+
+# hoy.tv
+0.0.0.0	display-algoad.hoy.tv
+0.0.0.0	display-t-algoad.hoy.tv
 
 # Huawei
 0.0.0.0	logservice-dra.platform.hicloud.com
