@@ -409,7 +409,6 @@
 
 # Split.io
 0.0.0.0	events.split.io
-0.0.0.0	sdk.split.io
 
 # Spot.IM
 0.0.0.0	dynamic-cdn.spot.im
