@@ -1,4 +1,4 @@
-# Last updated : 2025-02-12
+# Last updated : 2025-12-22
 
 # 95516
 0.0.0.0	ads.95516.com
@@ -159,6 +159,9 @@
 
 # CleverTap
 0.0.0.0	sg1.wzrkt.com
+
+# Copper6 Prebid.js
+0.0.0.0	endpoint.copper6.com
 
 # CNZZ
 0.0.0.0	s96.cnzz.com
